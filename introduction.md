@@ -1,6 +1,7 @@
+# Embarking on a Quantum Journey
+
 ![Quantum Voyagers: Secrets of the Quantek](images/cover_image.png)
 
-# Embarking on a Quantum Journey
 
 ## Introducing Quantum Voyagers: Secrets of the Quantek
 
