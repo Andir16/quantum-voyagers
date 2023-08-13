@@ -2,6 +2,7 @@
 
 ![Quantum Voyagers: Secrets of the Quantek](images/cover_image.png)
 
+
 ## Introducing Quantum Voyagers: Secrets of the Quantek
 
 The dawn of the quantum age has brought a myriad of questions, innovations, and possibilities. As we stand on the precipice 
